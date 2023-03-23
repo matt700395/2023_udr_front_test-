@@ -1,0 +1,5 @@
+/* 자손 결합자, outer클래스가 적용된 태그아래의 모든 li 태그들에 적용 */
+.outer li {
+    color: olivedrab;
+  }
+  
